@@ -27,6 +27,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn logo"/>  
   <img width="12" />
   <img src="https://matplotlib.org/_static/logo_light.svg" height="40" alt="matplotlib logo"/>
+  <img width="12" />
+  <img src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg" height="40" alt="pandas logo"/>
 </div>
 
 ###
