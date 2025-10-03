@@ -31,6 +31,10 @@
   <img src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg" height="40" alt="pandas logo"/>
   <img width="12" />
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo"/>
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="numpy logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"/>
 </div>
 
 ###
