@@ -55,8 +55,4 @@
   <a href="https://www.linkedin.com/in/yomna-salama-49799b31b/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="email logo" />
-  </a>
 </p>
