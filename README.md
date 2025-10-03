@@ -24,7 +24,9 @@
   <img width="12" />
   <img src="https://www.netgen.co.za/wp-content/uploads/2023/05/SQL-Database.png" height="40" alt="sql logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn logo"/>  
+  <img width="12" />
+  <img src="https://matplotlib.org/_static/logo_light.svg" height="40" alt="matplotlib logo"/>
 </div>
 
 ###
