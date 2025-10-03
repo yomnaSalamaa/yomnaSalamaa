@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Yomna Salama</h1>
+<h1 align="left">Hi 👋, I’m Yomna Salama</h1>
 
 ###
 
@@ -7,17 +7,15 @@
 ###
 
 <p align="left">
-✨ Passionate about turning data into insights and building AI-driven solutions.<br>
-📚 Currently exploring advanced Machine Learning & Computer Vision projects.<br>
-🎯 Goals: Contribute to impactful Data Science projects and grow as an ML Engineer.<br>
-🎲 Fun fact: I love combining creativity with logic — from analyzing data to exploring literature & culture.
+✨ Turning data into insights and building AI-driven systems.<br>
+📚 Learning advanced deep learning & productionizing ML models.<br>
+🎯 Goal: Lead impactful data projects in healthcare or social good.<br>
+🎲 Fun fact: I combine analytical thinking with a love for storytelling & culture.
 </p>
 
 ###
 
-<h2 align="left">I code with</h2>
-
-###
+<h2 align="left">🔧 Tech & Tools</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
@@ -32,7 +30,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="scikit-learn logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sql logo" />
   <img width="12" />
@@ -43,21 +41,22 @@
 
 ###
 
-<h2 align="left">Projects</h2>
+<h2 align="left">🔥 Selected Projects</h2>
 
-- 🦷 **Dental X-ray Diagnosis System**: Computer vision app for teeth detection & disease classification using YOLOv8.  
-- 🎾 **Tennis Match Analysis System**: AI-powered match analytics with YOLO, PyTorch & keypoint extraction.  
-- 📊 **Sales Forecasting Models**: Built regression models with time-series features for demand prediction.  
+- **Dental X-ray Diagnosis System** — a computer vision tool detecting teeth & dental disease (YOLOv8).  
+- **Tennis Match Analysis System** — extracting match insights using keypoint detection & AI.  
+- **Sales Forecasting Models** — time-series and regression for demand prediction in retail.  
 
 ###
 
-<h2 align="left">Let's connect</h2>
+<h2 align="left">📫 Let’s connect</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yomna-salama" target="_blank">
+  <a href="https://www.linkedin.com/in/yomna-salama-49799b31b/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo" />
   </a>
-  <a href="mailto:yomnasalama@example.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="gmail logo" />
+  &nbsp;&nbsp;
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="email logo" />
   </a>
 </p>
