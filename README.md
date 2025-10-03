@@ -29,6 +29,8 @@
   <img src="https://matplotlib.org/_static/logo_light.svg" height="40" alt="matplotlib logo"/>
   <img width="12" />
   <img src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg" height="40" alt="pandas logo"/>
+  <img width="12" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="seaborn logo"/>
 </div>
 
 ###
