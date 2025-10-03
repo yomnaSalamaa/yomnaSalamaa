@@ -1,6 +1,6 @@
-<h1 align="centre">Hi 👋, I’m Yomna Salama</h1>
+<h1 align="center">Hi 👋, I’m Yomna Salama</h1>
 
-<h2 align="centre">Data Scientist | Data Analyst</h2>
+<h2 align="center">Data Scientist | Data Analyst</h2>
 
 <p align="left">
 ✨ Turning data into insights and building AI-driven systems.<br>
