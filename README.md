@@ -1,43 +1,44 @@
-# 👋 Hi, I'm Yomna Salama  
+<h1 align="left">Hi 👋, I’m Yomna Salama</h1>
 
-🎓 Computer Science Graduate (Arab Open University, 2025) | Specializing in **Data Science & AI**  
-💡 Passionate about **Machine Learning, Deep Learning, and Data Analysis**  
-📊 Experienced in building **ML models, data pipelines, and statistical analysis**  
-🌍 Based in Egypt | Open to global collaboration  
+###
 
----
+<h2 align="left">Data Scientist | Data Analyst</h2>
 
-### 🚀 About Me  
-- 🎓 Graduated in **Computer Science – Data Science track**  
-- 🤖 Hands-on projects in **Machine Learning, Deep Learning, and Computer Vision**  
-- 📈 Interested in applying AI to **healthcare and sports analytics**  
-- 🌱 Currently exploring **Big Data (Spark & Hadoop)** and **AI model deployment**  
-- 💼 Beginner freelancer, looking for opportunities in **Data Science & AI projects**  
+###
 
----
-
-### 🔧 Tech & Tools  
-
-<p align="left">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>  
+<p align="left">
+✨ Turning data into insights and building AI-driven systems.<br>
+📚 Learning advanced deep learning & productionizing ML models.<br>
+🎯 Goal: Lead impactful data projects in healthcare or social good.<br>
+🎲 Fun fact: I combine analytical thinking with a love for storytelling & culture.
 </p>
 
----
+###
 
-### 📂 Featured Projects  
-- 🏸 **Tennis Analysis System** → YOLOv5 & YOLOv8 for ball and player tracking, ResNet50 for court keypoints, Streamlit app with PDF reports.  
-- 🦷 **Dental X-ray Diagnosis** → Dual YOLOv8 models for teeth & disease detection, Streamlit deployment with database storage.  
-- 📊 **Multiple Regression Model** → Predictive modeling with Ridge, Lasso, and Linear Regression.  
+<h2 align="left">🔧 Tech & Tools</h2>
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="sql logo" />
+</div>
 
-### 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yomna-salama-49799b31b/)  
-- 📧 Email: yomna.salama@example.com  
-- 🐙 [GitHub](https://github.com/yourusername)  
+###
 
----
-⭐️ *Always learning, always curious!*  
+<h2 align="left">🔥 Selected Projects</h2>
+
+- **Dental X-ray Diagnosis System** — a computer vision tool detecting teeth & dental disease (YOLOv8).  
+- **Tennis Match Analysis System** — extracting match insights using keypoint detection & AI.  
+- **Sales Forecasting Models** — time-series and regression for demand prediction in retail.  
+
+###
+
+<h2 align="left">📫 Let’s connect</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yomna-salama-49799b31b/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo" />
+  </a>
+</p>
