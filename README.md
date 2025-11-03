@@ -38,7 +38,7 @@
 - 🎾**Tennis Match Analysis System** — extracting match insights using keypoint detection & AI.  
 - 🛍️**Store Sales Forecasting Web Application** — time-series and regression for demand prediction in retail.
 - 🧮 **Excel Data Science Salary Calculator Dashboard** - Interactive dashboard that visualizes and analyzes data science salaries with KPIs.
-- 🎬 **PostgreSQL Movie Data Analysis** - SQL project analyzing movie data using PostgreSQL with Executive Summary and recommendations.
+- 🎬 **SQL Movie Data Analysis** - SQL project analyzing movie data using PostgreSQL with Executive Summaryrecommendations.
 
 <h2 align="left">📫 Let’s connect</h2>
 <p align="left">
