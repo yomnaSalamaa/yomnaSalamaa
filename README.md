@@ -37,7 +37,7 @@
 - 🦷**Dental X-ray Diagnosis System** — a computer vision tool detecting teeth & dental disease (YOLOv8).  
 - 🎾**Tennis Match Analysis System** — extracting match insights using keypoint detection & AI.  
 - 🛍️**Store Sales Forecasting Web Application** — time-series and regression for demand prediction in retail.
-- 🎬 **SQL Movie Data Analysis** - SQL project analyzing movie data using PostgreSQL with Executive Summaryrecommendations.
+- 🎬 **SQL Movie Data Analysis** - SQL project analyzing movie data using PostgreSQL with Executive Summary and recommendations.
 - 🧮 **Excel Data Science Salary Calculator Dashboard** - Interactive dashboard that visualizes and analyzes data science salaries with KPIs.
   
 <h2 align="left">📫 Let’s connect</h2>
